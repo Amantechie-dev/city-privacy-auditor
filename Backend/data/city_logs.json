@@ -1,0 +1,18 @@
+[
+  {
+    "event_id": "EVT-001",
+    "sensor_type": "Traffic_Camera",
+    "location": "Main St Intersection",
+    "data_collected": "Vehicle counts",
+    "retention_days": 7,
+    "pii_collected": false
+  },
+  {
+    "event_id": "EVT-002",
+    "sensor_type": "CCTV_Facial_Rec",
+    "location": "Downtown Public Square",
+    "data_collected": "Biometric face scans",
+    "retention_days": 365,
+    "pii_collected": true
+  }
+]
